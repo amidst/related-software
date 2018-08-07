@@ -1,2 +1,2 @@
 #!/bin/sh
-java  -classpath .:../bin/NeticaJ.jar -Djava.library.path=../bin  Demo
+java  -classpath .:../bin/64bit/NeticaJ.jar -Djava.library.path=../bin  Demo
